@@ -1,3 +1,18 @@
+---
+title: RAG Document QA
+emoji: 📚
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.8.0
+app_file: app.py
+pinned: false
+---
+
+# RAG Document Question Answering System
+
+Upload documents and ask questions based on their content!
+
 # RAG Assistant - Document Q&A System
 
 A Retrieval-Augmented Generation (RAG) system that allows users to upload documents and ask questions based only on the uploaded content.
