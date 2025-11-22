@@ -1,20 +1,7 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+*.pyc
 venv/
-env/
-ENV/
-
-# Project specific
 .env
 uploads/
 vector_store/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
+.git
