@@ -9,9 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-# RAG Document Question Answering System
-
-Upload documents and ask questions based on their content!
 
 # RAG Assistant - Document Q&A System
 
