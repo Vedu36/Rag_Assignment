@@ -14,6 +14,8 @@ pinned: false
 
 A Retrieval-Augmented Generation (RAG) system that allows users to upload documents and ask questions based only on the uploaded content.
 
+## Live Link - https://huggingface.co/spaces/Vedag/New_Rag
+
 ## 🎯 Overview
 
 This application implements a RAG pipeline that:
